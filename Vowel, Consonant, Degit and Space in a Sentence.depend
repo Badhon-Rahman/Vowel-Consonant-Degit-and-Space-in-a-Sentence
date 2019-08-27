@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566488292 source:c:\badhon\vowel, consonant, degit and space in a sentence\main.cpp
+	<iostream>
+	<cstdio>
+	<cstring>
+
